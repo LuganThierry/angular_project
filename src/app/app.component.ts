@@ -5,6 +5,7 @@ import { RouterOutlet } from '@angular/router';
   selector: 'app-root',
   standalone: true,
   imports: [RouterOutlet],
+  // templateUrl: './olamundo/olamundo.component.html',
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
